@@ -1,0 +1,2 @@
+# NadsaMonad
+Auto spin
