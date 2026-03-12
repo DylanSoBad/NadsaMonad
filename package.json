@@ -1,0 +1,15 @@
+{
+  "name": "nadsa-spin-bot",
+  "version": "1.0.0",
+  "description": "Automation spin bot for Nadsa Monad testnet",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "dotenv": "^16.4.0",
+    "https-proxy-agent": "^7.0.2"
+  }
+}
